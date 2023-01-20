@@ -1,0 +1,10 @@
+
+Start MainAlgo >>Iteration 0
+ 1[Glor,JAVA12,200 level,TH](0:0)
+ 3[Gl,JAVA1234,400 level,TH](0:0)
+ 0[Glory,JAVA1,100 level,TH](0:0)
+ 5[Glory,JAVA123445,200 level,TH](2:0)
+ 2[Glo,JAVA123,300 level,TH](2:0)
+ 4[G,JAVA12344,100 level,TH](2:0)
+ 6[Glor,JAVA1234456,300 level,TH](0:1)
+End MainAlgo >>
